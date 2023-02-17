@@ -1,16 +1,24 @@
-### Hi there 👋
+# Welcome to my Profile 👋
+### Github Overview😄
 
-<!--
-**Wiselnn570/Wiselnn570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/jzzzzh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiselnn570&hide=html,javascript,css&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on SCU CD PRC
+
+
+- 🌱 I’m currently learning nlp
+
+
+- 👯 I’m looking to collaborate on Chengdu and shenzhen
+
+
+- 📫 How to reach me: 982188345@qq.com
+
+
+- 😄 Declaration: Think twice, code once
+
+
+- ⚡ Fun fact: Photography, coding
