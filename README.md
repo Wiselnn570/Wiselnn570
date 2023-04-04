@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Chengdu and shenzhen
 
 
-- 📫 How to reach me: 982188345@qq.com
+- 📫 How to reach me: wiselnn570@gmail.com
 
 
 - 😄 Declaration: Think twice, code once
