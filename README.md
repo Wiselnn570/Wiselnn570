@@ -1,6 +1,4 @@
 # Welcome to my Profile 👋
-### Github Overview😄
-
 
 - 🔭 I’m working as a research intern at Shanghai AI Laboratory.
 
